@@ -2,5 +2,5 @@
 
 ## Built Using
 
-#- HTML
-#- CSS
+- HTML 
+- CSS
